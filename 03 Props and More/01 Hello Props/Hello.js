@@ -1,4 +1,4 @@
-class Hello extends React.component{
+class Hello extends React.Component{
     render(){
         return (
             <div>
